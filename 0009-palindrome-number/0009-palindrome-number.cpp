@@ -1,21 +1,16 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
+        //convert int to string 
         if(x<0){
             return false;
         }
-        long long rev=0;   // this will be the reversed number 
-        int temp=x;
-        while(temp>0){
-            // this is the logic to find the reverse of an given number mathematically 
-            int digit=temp%10;
-            rev=rev*10+digit;
-            temp=temp/10;
-        }
-        if(x==rev){
+        string s=to_string(x);
+        string rev=s;
+        reverse(rev.begin(),rev.end());
+        if(s==rev){
             return true;
         }
         return false;
     }
-
 };
