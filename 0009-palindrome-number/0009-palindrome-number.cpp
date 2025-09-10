@@ -1,14 +1,18 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        //convert int to string 
         if(x<0){
             return false;
         }
-        string s=to_string(x);
-        string rev=s;
-        reverse(rev.begin(),rev.end());
-        if(s==rev){
+        long long rev=0;  // long long isliye ki overflow na hojaye
+        int temp=x;
+        while(temp>0){
+            // this is how you reverse an integer mathematically 
+            int digit=temp %10;
+            rev=rev*10+digit;
+            temp=temp/10;
+        }
+        if(x==rev){
             return true;
         }
         return false;
