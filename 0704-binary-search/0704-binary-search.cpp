@@ -11,10 +11,9 @@ public:
             }else if(nums[mid]>target){
                 r=mid-1;
             }else{
-            l=mid+1;
+                l=mid+1;
             }
         }
         return -1;
-        
     }
 };
