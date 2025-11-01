@@ -11,25 +11,21 @@
  */
 class Solution {
 public:
-//sum le lenge ek aur root mein uski value add karte jayenge and then we will call the given function recursively over here till the node reaches the leaf node 
-bool preorder(TreeNode*root, int sum,int &targetSum){
-    if(root==NULL)
-    return false;
-    sum=sum+root->val;
-    if(root->left==NULL && root->right==NULL ){
-        if(sum==targetSum)
-        return true;
-
+bool findpath(TreeNode*node, int sum,int targetSum){
+    if(node==NULL){
         return false;
     }
-    bool leftside=preorder(root->left,sum,targetSum);
-    bool rightside=preorder(root->right,sum,targetSum);
-    return leftside || rightside;
+    if(node->left==NULL && node->right==NULL){
+        return (sum+node->val==targetSum);
+    }
+  sum=sum+node->val;
+    bool left=findpath(node->left,sum,targetSum);
+    bool right=findpath(node->right,sum,targetSum);
+    return left||right;
 }
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum=0;
-        bool result= preorder(root,0,targetSum);
-        return result;
+        return findpath(root,sum,targetSum);
         
     }
 };
