@@ -14,14 +14,15 @@ public:
 int currdiameter=0;
 int finddiameter(TreeNode*node){
     if(node==NULL){
-        return NULL;
+        return 0;
     }
     int left=finddiameter(node->left);
     int right=finddiameter(node->right);
     if(left+right>currdiameter){
         currdiameter=left+right;
     }
-    return max(left,right)+1;    //so you are returning the height over here 
+    return max(left,right)+1;
+   
 }
     int diameterOfBinaryTree(TreeNode* root) {
         finddiameter(root);
