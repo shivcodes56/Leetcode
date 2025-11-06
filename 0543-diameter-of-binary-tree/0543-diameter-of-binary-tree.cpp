@@ -21,8 +21,7 @@ int finddiameter(TreeNode*node){
     if(left+right>currdiameter){
         currdiameter=left+right;
     }
-    return max(left,right)+1;
-   
+    return max(left,right)+1;    // this basically returns the height 
 }
     int diameterOfBinaryTree(TreeNode* root) {
         finddiameter(root);
