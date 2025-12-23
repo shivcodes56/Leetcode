@@ -8,7 +8,10 @@ public:
             if(prices[i]<minprice){
                 minprice=prices[i];
             }
-            int maxprofit=prices[i]-minprice;
+            int currprofit=prices[i]-minprice;
+             if(currprofit>maxprofit){
+                maxprofit=currprofit;
+             }
            
 
         }
