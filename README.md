@@ -24,3 +24,5 @@ This repository contains my solutions to LeetCode problems, solved as part of my
 
 ## LeetCode Profile
 https://leetcode.com/u/shivam_0905gupta/
+⭐ Solved 200+ LeetCode problems
+
