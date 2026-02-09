@@ -26,3 +26,6 @@ This repository contains my solutions to LeetCode problems, solved as part of my
 https://leetcode.com/u/shivam_0905gupta/
 ⭐ Solved 200+ LeetCode problems
 
+## Goal
+To strengthen problem-solving and interview readiness.
+
