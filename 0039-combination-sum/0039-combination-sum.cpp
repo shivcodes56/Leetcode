@@ -1,23 +1,26 @@
 class Solution {
 public:
-void backtrack(vector<int>& candidates,int target,vector<vector<int>>& result,int start,vector<int>&current,int total){
-    if(total==target){
-        result.push_back(current);
+void backtrack(int idx,int sum,vector<int>&temp, vector<int>candidates,vector<vector<int>>&result,int target){
+    if(sum==target){
+        result.push_back(temp);
         return;
     }
-    if(total>target){
+    if(sum>target || idx>=candidates.size()){
         return;
     }
-    for(int i=start;i<candidates.size();i++){
-        current.push_back(candidates[i]);
-        backtrack(candidates,target,result,i,current,total+candidates[i]);
-        current.pop_back();
-    }
+    //two options pick or skip
+    temp.push_back(candidates[idx]);
+    backtrack(idx,sum+candidates[idx],temp,candidates,result,target);
+    temp.pop_back();
+
+    //skip
+    backtrack(idx+1,sum,temp,candidates,result,target);
+
 }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
+        vector<int>temp;
         vector<vector<int>>result;
-        vector<int>current;
-        backtrack(candidates,target,result,0,current,0);
+        backtrack(0,0,temp,candidates,result,target);
         return result;
         
     }
