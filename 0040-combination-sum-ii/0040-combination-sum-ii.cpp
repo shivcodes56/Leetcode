@@ -1,6 +1,6 @@
 class Solution {
 public: 
-void backtrack(int idx,int sum,vector<int>&temp,int target,vector<vector<int>>&result,vector<int>candidates){
+void backtrack(int idx,int sum,vector<int>&temp,int target,vector<vector<int>>&result,vector<int>&candidates){
     if(sum==target){
         result.push_back(temp);
         return;
