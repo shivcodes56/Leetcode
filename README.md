@@ -48,4 +48,8 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0226-invert-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1251-average-selling-price](https://github.com/shivcodes56/Leetcode/tree/master/1251-average-selling-price) |
 <!---LeetCode Topics End-->
