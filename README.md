@@ -56,4 +56,12 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [1251-average-selling-price](https://github.com/shivcodes56/Leetcode/tree/master/1251-average-selling-price) |
+## Array
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
