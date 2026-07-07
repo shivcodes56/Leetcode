@@ -10,38 +10,26 @@
  * };
  */
 class Solution {
-public: 
-int checkHeight(TreeNode*node){
-            if(node==NULL){
-                return 0;
-            }
-            int left=checkHeight(node->left);
-            if(left==-1){
-                return -1;
-            }
-            int right=checkHeight(node->right);
-            if(right==-1){   // if it finds it is unbalanced 
-                return -1;
-            }
-            int diff=abs(right-left);
-            if(diff>1){
-                return -1;
-            }else{
-                return max(left,right)+1;
-            }
-        }
-
+public:
+int solve(TreeNode* root){
+    if(root==NULL){
+        return 0;
+    }
+    int left=solve(root->left);
+    int right=solve(root->right);
+    if(left==-1 || right==-1){
+        return -1;
+    }
+    if(abs(left-right)>1){
+        return -1;
+    }else{
+        return max(left,right)+1;
+    }
+}
     bool isBalanced(TreeNode* root) {
-        if(root==NULL){
-            return true;
-        }
-        if(checkHeight(root)==-1){
-            return false;
-        }else{
-            return true;
-        }
-        
-      
-        
+      if(solve(root)==-1){
+        return false;
+      }
+      return true;
     }
 };
