@@ -11,21 +11,19 @@
  */
 class Solution {
 public:
-int currdiameter=0;
-int finddiameter(TreeNode*node){
-    if(node==NULL){
+int ans=0;
+int solve(TreeNode*root){
+    if(root==NULL){
         return 0;
     }
-    int left=finddiameter(node->left);
-    int right=finddiameter(node->right);
-    if(left+right>currdiameter){
-        currdiameter=left+right;
-    }
-    return max(left,right)+1;    // this basically returns the height 
+    int left=solve(root->left);
+    int right=solve(root->right);
+    int dia=left+right;
+    ans=max(dia,ans);
+    return max(left,right)+1;
 }
     int diameterOfBinaryTree(TreeNode* root) {
-        finddiameter(root);
-        return currdiameter;
-        
+        solve(root);
+        return ans;
     }
 };
