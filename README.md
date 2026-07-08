@@ -62,6 +62,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [1251-average-selling-price](https://github.com/shivcodes56/Leetcode/tree/master/1251-average-selling-price) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shivcodes56/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
