@@ -61,6 +61,7 @@ To strengthen problem-solving and interview readiness.
 ## Database
 |  |
 | ------- |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/shivcodes56/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/shivcodes56/Leetcode/tree/master/1251-average-selling-price) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shivcodes56/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
