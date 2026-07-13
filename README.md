@@ -62,6 +62,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/shivcodes56/Leetcode/tree/master/0596-classes-with-at-least-5-students) |
+| [0619-biggest-single-number](https://github.com/shivcodes56/Leetcode/tree/master/0619-biggest-single-number) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shivcodes56/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1251-average-selling-price](https://github.com/shivcodes56/Leetcode/tree/master/1251-average-selling-price) |
 | [1729-find-followers-count](https://github.com/shivcodes56/Leetcode/tree/master/1729-find-followers-count) |
