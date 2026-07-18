@@ -11,21 +11,24 @@
  */
 class Solution {
 public:
-bool findpath(TreeNode*node, int sum,int targetSum){
-    if(node==NULL){
+int sum=0;
+bool solve(TreeNode*root,int targetSum,int sum){
+    if(root==NULL){
+        return NULL;
+    }
+    sum=sum+root->val;
+    if(root->left==NULL && root->right==NULL){
+        if(sum==targetSum){
+            return true;
+        }
         return false;
     }
-    if(node->left==NULL && node->right==NULL){
-        return (sum+node->val==targetSum);
-    }
-  sum=sum+node->val;
-    bool left=findpath(node->left,sum,targetSum);
-    bool right=findpath(node->right,sum,targetSum);
+    bool left=solve(root->left,targetSum,sum);
+    bool right=solve(root->right,targetSum,sum);
     return left||right;
 }
     bool hasPathSum(TreeNode* root, int targetSum) {
-        int sum=0;
-        return findpath(root,sum,targetSum);
+        return solve(root,targetSum,sum);
         
     }
 };
