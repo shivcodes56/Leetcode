@@ -11,23 +11,23 @@
  */
 class Solution {
 public:
-int solve(TreeNode* root){
+int solve(TreeNode*root){
     if(root==NULL){
         return 0;
     }
     int left=solve(root->left);
     int right=solve(root->right);
-    if(left==-1 || right==-1){
+    if(left==-1 || right==-1){   //major base case here 
         return -1;
     }
-    if(abs(left-right)>1){
-        return -1;
-    }else{
+    if(abs(left-right)<=1){
         return max(left,right)+1;
     }
+    return -1;   // means it is unbalanced
 }
     bool isBalanced(TreeNode* root) {
-      if(solve(root)==-1){
+      int ans=solve(root);
+      if(ans==-1){
         return false;
       }
       return true;
