@@ -22,19 +22,18 @@ public:
             int size=que.size();
             vector<int>level;
             for(int i=0;i<size;i++){
-                TreeNode*node=que.front();
-                level.push_back(node->val);
-                if(node->left!=NULL){
-                    que.push(node->left);
-                }
-                if(node->right!=NULL){
-                    que.push(node->right);
-                }
-                que.pop();
+              TreeNode*node=que.front();   // because queue ke starting element se hi pata chalta hai right
+              if(node->left!=NULL){
+                que.push(node->left);
+              }
+              if(node->right!=NULL){
+                que.push(node->right);
+              }
+              que.pop();
+              level.push_back(node->val);
             }
             result.push_back(level);
         }
-       
         return result;
     }
 };
