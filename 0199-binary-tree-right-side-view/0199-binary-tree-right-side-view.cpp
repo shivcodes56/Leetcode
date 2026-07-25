@@ -21,19 +21,19 @@ public:
         while(!que.empty()){
             int size=que.size();
             for(int i=0;i<size;i++){
-              TreeNode*node=que.front();
-              if(node->left!=NULL){
-                que.push(node->left);
-              }
-              if(node->right!=NULL){
-                que.push(node->right);
-              }
-              que.pop();
-               if(i==size-1){
-                result.push_back(node->val);
-               }
+                TreeNode*node=que.front();
+                  que.pop();
+                   if(node->left!=NULL){
+            que.push(node->left);
+           }
+            if(node->right!=NULL){
+            que.push(node->right);
+           }
+             if(i==size-1){
+            result.push_back(node->val);
+           }
             }
         }
-           return result;
+        return result;
     }
 };
