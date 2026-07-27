@@ -45,6 +45,7 @@ To strengthen problem-solving and interview readiness.
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shivcodes56/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -79,6 +80,7 @@ To strengthen problem-solving and interview readiness.
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shivcodes56/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Database
 |  |
 | ------- |
@@ -106,4 +108,8 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
