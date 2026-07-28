@@ -22,18 +22,18 @@ public:
             int size=que.size();
             vector<int>level;
             for(int i=0;i<size;i++){
-              TreeNode*node=que.front();   // because queue ke starting element se hi pata chalta hai right
-              if(node->left!=NULL){
-                que.push(node->left);
-              }
-              if(node->right!=NULL){
-                que.push(node->right);
-              }
-              que.pop();
-              level.push_back(node->val);
-            }
-            result.push_back(level);
-        }
+                TreeNode*node=que.front();
+                que.pop();
+                if(node->left!=NULL){
+                    que.push(node->left);
+                }
+                if(node->right!=NULL){
+                    que.push(node->right);
+                }
+                level.push_back(node->val);    //so my level.push_back will take place inside my for loop only 
+            }    // this is where the for loop ends 
+             result.push_back(level);
+        }   // and this where the WHILE LOOP ends
         return result;
     }
 };
