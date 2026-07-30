@@ -121,4 +121,16 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Math
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
