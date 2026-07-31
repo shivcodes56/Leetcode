@@ -35,6 +35,7 @@ To strengthen problem-solving and interview readiness.
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivcodes56/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivcodes56/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shivcodes56/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -49,6 +50,7 @@ To strengthen problem-solving and interview readiness.
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivcodes56/Leetcode/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivcodes56/Leetcode/tree/master/0112-path-sum) |
@@ -70,6 +72,7 @@ To strengthen problem-solving and interview readiness.
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivcodes56/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivcodes56/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shivcodes56/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
@@ -112,6 +115,7 @@ To strengthen problem-solving and interview readiness.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sorting
 |  |
