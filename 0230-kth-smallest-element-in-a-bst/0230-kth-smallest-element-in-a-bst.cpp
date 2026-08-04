@@ -11,18 +11,17 @@
  */
 class Solution {
 public:
-vector<int>nums;
-void solve(TreeNode*node){
-    if(node==NULL){
+void solve(TreeNode*root,vector<int>&nums){
+    if(root==NULL){
         return;
     }
-    solve(node->left);
-    nums.push_back(node->val);
-    solve(node->right);   // so this is the inorder traversal this given sorted 
-
+    solve(root->left,nums);
+    nums.push_back(root->val);
+    solve(root->right,nums);
 }
     int kthSmallest(TreeNode* root, int k) {
-        solve(root);
+        vector<int>nums;
+        solve(root,nums);
         return nums[k-1];
     }
 };
