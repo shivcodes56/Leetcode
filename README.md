@@ -144,4 +144,8 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
