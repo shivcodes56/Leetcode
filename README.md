@@ -114,6 +114,7 @@ To strengthen problem-solving and interview readiness.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
@@ -159,4 +160,8 @@ To strengthen problem-solving and interview readiness.
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
