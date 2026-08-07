@@ -101,6 +101,7 @@ To strengthen problem-solving and interview readiness.
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivcodes56/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivcodes56/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -127,6 +128,7 @@ To strengthen problem-solving and interview readiness.
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -148,4 +150,8 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
