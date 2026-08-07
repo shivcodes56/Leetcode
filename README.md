@@ -101,6 +101,7 @@ To strengthen problem-solving and interview readiness.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivcodes56/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -153,5 +154,6 @@ To strengthen problem-solving and interview readiness.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
