@@ -114,6 +114,7 @@ To strengthen problem-solving and interview readiness.
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Backtracking
 |  |
@@ -130,6 +131,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -156,4 +158,5 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
