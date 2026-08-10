@@ -118,6 +118,7 @@ To strengthen problem-solving and interview readiness.
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -167,6 +168,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
+| [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
 ## Divide and Conquer
 |  |
 | ------- |
