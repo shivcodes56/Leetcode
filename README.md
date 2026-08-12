@@ -62,6 +62,7 @@ To strengthen problem-solving and interview readiness.
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/shivcodes56/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@ To strengthen problem-solving and interview readiness.
 | [0199-binary-tree-right-side-view](https://github.com/shivcodes56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivcodes56/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -177,4 +179,12 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
