@@ -57,6 +57,7 @@ To strengthen problem-solving and interview readiness.
 | [0110-balanced-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/shivcodes56/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivcodes56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivcodes56/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -71,6 +72,7 @@ To strengthen problem-solving and interview readiness.
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/shivcodes56/Leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/shivcodes56/Leetcode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/shivcodes56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/shivcodes56/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivcodes56/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
@@ -104,6 +106,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
+| [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivcodes56/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -182,9 +185,14 @@ To strengthen problem-solving and interview readiness.
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/shivcodes56/Leetcode/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
