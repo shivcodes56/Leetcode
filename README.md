@@ -106,6 +106,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ To strengthen problem-solving and interview readiness.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
@@ -195,4 +197,8 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
