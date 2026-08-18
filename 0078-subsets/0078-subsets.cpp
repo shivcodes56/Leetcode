@@ -1,22 +1,19 @@
 class Solution {
 public:
-void backtrack(int idx,vector<int>&curr,vector<vector<int>>&all,vector<int>&nums){
-    int n=nums.size();
-    if(idx==n){
-     all.push_back(curr);
-     return;
+void solve(vector<int>&nums,int i,vector<int>&temp,vector<vector<int>>&result){
+    if(i==nums.size()){
+        result.push_back(temp);
+        return;
     }
-    //pick
-    curr.push_back(nums[idx]);
-    backtrack(idx+1,curr,all,nums);
-    curr.pop_back();
-//skip
-backtrack(idx+1,curr,all,nums);
+    temp.push_back(nums[i]);
+    solve(nums,i+1,temp,result);
+    temp.pop_back();   // pop_back() does not take any arguement alright 
+    solve(nums,i+1,temp,result);
 }
     vector<vector<int>> subsets(vector<int>& nums) {
-        vector<int>curr;
-        vector<vector<int>>all;
-        backtrack(0,curr,all,nums);
-        return all;
+        vector<int>temp;
+      vector<vector<int>>result;
+        solve(nums,0,temp,result);
+        return result;        
     }
 };
