@@ -112,6 +112,7 @@ To strengthen problem-solving and interview readiness.
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivcodes56/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/shivcodes56/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivcodes56/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -120,6 +121,7 @@ To strengthen problem-solving and interview readiness.
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
@@ -202,6 +204,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
