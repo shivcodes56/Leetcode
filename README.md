@@ -108,6 +108,7 @@ To strengthen problem-solving and interview readiness.
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/shivcodes56/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -140,6 +141,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivcodes56/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -212,7 +214,12 @@ To strengthen problem-solving and interview readiness.
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivcodes56/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivcodes56/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
