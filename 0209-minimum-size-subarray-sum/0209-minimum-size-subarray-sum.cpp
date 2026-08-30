@@ -2,23 +2,22 @@ class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
         int n=nums.size();
-        int i=0,j=0;
-        int minL=INT_MAX;
+        int l=0;
+        int r=0;
         int sum=0;
-        while(j<n){
-            //then we need to simply shrink the given window size 
-            sum=sum+nums[j];
+        int count=INT_MAX;
+        for(int r=0;r<n;r++){
+            sum=sum+nums[r];
             while(sum>=target){
-                 int currlen=j-i+1;
-            sum=sum-nums[i];
-            minL=min(minL,currlen);
-            i++;
+                int len=r-l+1;
+                count=min(count,len);
+                sum=sum-nums[l];
+                l++;
             }
-            j++;
         }
-        if(minL==INT_MAX)
-         return 0;
-        return minL;
-        
+        if(count==INT_MAX){
+            return 0;
+        }
+        return count;
     }
 };
