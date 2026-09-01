@@ -116,6 +116,7 @@ To strengthen problem-solving and interview readiness.
 | [0643-maximum-average-subarray-i](https://github.com/shivcodes56/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivcodes56/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -149,6 +150,7 @@ To strengthen problem-solving and interview readiness.
 | [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Sorting
 |  |
@@ -222,6 +224,7 @@ To strengthen problem-solving and interview readiness.
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/shivcodes56/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivcodes56/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -230,5 +233,6 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
