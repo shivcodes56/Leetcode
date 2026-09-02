@@ -168,6 +168,7 @@ To strengthen problem-solving and interview readiness.
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shivcodes56/Leetcode/tree/master/0007-reverse-integer) |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
