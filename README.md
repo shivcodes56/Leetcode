@@ -148,6 +148,7 @@ To strengthen problem-solving and interview readiness.
 | [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivcodes56/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -171,6 +172,7 @@ To strengthen problem-solving and interview readiness.
 | [0007-reverse-integer](https://github.com/shivcodes56/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivcodes56/Leetcode/tree/master/0009-palindrome-number) |
 | [0507-perfect-number](https://github.com/shivcodes56/Leetcode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
@@ -196,6 +198,7 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
