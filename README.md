@@ -127,6 +127,7 @@ To strengthen problem-solving and interview readiness.
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivcodes56/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
@@ -171,6 +172,7 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0007-reverse-integer](https://github.com/shivcodes56/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shivcodes56/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/shivcodes56/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/shivcodes56/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
@@ -181,6 +183,7 @@ To strengthen problem-solving and interview readiness.
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivcodes56/Leetcode/tree/master/0258-add-digits) |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
 ## DP on Trees
 |  |
