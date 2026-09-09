@@ -117,6 +117,7 @@ To strengthen problem-solving and interview readiness.
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivcodes56/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -161,6 +162,7 @@ To strengthen problem-solving and interview readiness.
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
+| [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -250,4 +252,12 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivcodes56/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
