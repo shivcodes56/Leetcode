@@ -143,6 +143,7 @@ To strengthen problem-solving and interview readiness.
 | [0771-jewels-and-stones](https://github.com/shivcodes56/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/shivcodes56/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivcodes56/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2937-make-three-strings-equal](https://github.com/shivcodes56/Leetcode/tree/master/2937-make-three-strings-equal) |
 ## Backtracking
 |  |
 | ------- |
