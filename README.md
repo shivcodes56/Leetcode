@@ -122,6 +122,7 @@ To strengthen problem-solving and interview readiness.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/shivcodes56/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivcodes56/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1646-get-maximum-in-generated-array](https://github.com/shivcodes56/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivcodes56/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -130,6 +131,7 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0258-add-digits](https://github.com/shivcodes56/Leetcode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
+| [1646-get-maximum-in-generated-array](https://github.com/shivcodes56/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 ## String
 |  |
