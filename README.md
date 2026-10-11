@@ -126,6 +126,7 @@ To strengthen problem-solving and interview readiness.
 | [1646-get-maximum-in-generated-array](https://github.com/shivcodes56/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivcodes56/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivcodes56/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
@@ -190,6 +191,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/shivcodes56/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
