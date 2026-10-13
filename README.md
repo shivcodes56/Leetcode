@@ -142,6 +142,7 @@ To strengthen problem-solving and interview readiness.
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/shivcodes56/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/shivcodes56/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shivcodes56/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -214,6 +215,7 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Divide and Conquer
 |  |
