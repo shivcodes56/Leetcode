@@ -117,6 +117,7 @@ To strengthen problem-solving and interview readiness.
 | [0643-maximum-average-subarray-i](https://github.com/shivcodes56/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0867-transpose-matrix](https://github.com/shivcodes56/Leetcode/tree/master/0867-transpose-matrix) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivcodes56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/shivcodes56/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/shivcodes56/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -172,6 +173,7 @@ To strengthen problem-solving and interview readiness.
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivcodes56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/shivcodes56/Leetcode/tree/master/1051-height-checker) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -217,6 +219,7 @@ To strengthen problem-solving and interview readiness.
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0922-sort-array-by-parity-ii](https://github.com/shivcodes56/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
