@@ -189,6 +189,7 @@ To strengthen problem-solving and interview readiness.
 | [0258-add-digits](https://github.com/shivcodes56/Leetcode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/shivcodes56/Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2235-add-two-integers](https://github.com/shivcodes56/Leetcode/tree/master/2235-add-two-integers) |
 | [2427-number-of-common-factors](https://github.com/shivcodes56/Leetcode/tree/master/2427-number-of-common-factors) |
 ## Enumeration
 |  |
