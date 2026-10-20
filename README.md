@@ -108,6 +108,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivcodes56/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -216,6 +217,7 @@ To strengthen problem-solving and interview readiness.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivcodes56/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
