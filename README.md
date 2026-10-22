@@ -110,6 +110,7 @@ To strengthen problem-solving and interview readiness.
 | [0001-two-sum](https://github.com/shivcodes56/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivcodes56/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0078-subsets](https://github.com/shivcodes56/Leetcode/tree/master/0078-subsets) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivcodes56/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/shivcodes56/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shivcodes56/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -160,6 +161,7 @@ To strengthen problem-solving and interview readiness.
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivcodes56/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivcodes56/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/shivcodes56/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivcodes56/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -219,6 +221,7 @@ To strengthen problem-solving and interview readiness.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shivcodes56/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shivcodes56/Leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/shivcodes56/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/shivcodes56/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/shivcodes56/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0633-sum-of-square-numbers](https://github.com/shivcodes56/Leetcode/tree/master/0633-sum-of-square-numbers) |
