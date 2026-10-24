@@ -130,6 +130,7 @@ To strengthen problem-solving and interview readiness.
 | [1646-get-maximum-in-generated-array](https://github.com/shivcodes56/Leetcode/tree/master/1646-get-maximum-in-generated-array) |
 | [1929-concatenation-of-array](https://github.com/shivcodes56/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivcodes56/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivcodes56/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivcodes56/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
@@ -216,6 +217,7 @@ To strengthen problem-solving and interview readiness.
 | [0217-contains-duplicate](https://github.com/shivcodes56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/shivcodes56/Leetcode/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/shivcodes56/Leetcode/tree/master/0771-jewels-and-stones) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivcodes56/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/shivcodes56/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
@@ -265,6 +267,7 @@ To strengthen problem-solving and interview readiness.
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/shivcodes56/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/shivcodes56/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/shivcodes56/Leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivcodes56/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
